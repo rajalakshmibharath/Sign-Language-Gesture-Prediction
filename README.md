@@ -1,1 +1,1 @@
-# Sign-Language-Gesture-Prediction
+# sign_language_gesture_prediction
